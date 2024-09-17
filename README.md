@@ -1,3 +1,1 @@
-# ML One ☝️  and ML Two ✌️ 
-
-## 💻Diploma In Apple Development🍎
+# ML One ☝️  and ML Two ✌️ for 💻Diploma In Apple Development🍎
