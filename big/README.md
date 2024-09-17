@@ -1,7 +1,7 @@
 # Big
 
 <p align="center">
-  <img width="540" src='.github/logo.png' />
+  <img width="540" src='../.github/logo.png' />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ That's all you need to start writing presentations!
 
 You can advance slides the usual way, by clicking them. You can also use the left & right arrow keys, and the up and down arrow keys. On touch devices, you can navigate forward by tapping and also navigate forward and backwards by swiping.
 
-![](./.github/big-modes.png)
+![](../.github/big-modes.png)
 
 Big also has three modes if you want to quickly jump to a slide, or print a presentation. You can switch between modes by hitting the `t`, `p`, and `j` keys.
 
